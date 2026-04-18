@@ -1,23 +1,4 @@
-# Write-Up · The Server from Hell
 
-**TryHackMe · Abril 2026 · Juan Pablo**
-
----
-
-## Como usar no GitHub Pages
-
-1. Faça upload de todos os arquivos desta pasta para um repositório GitHub
-2. Vá em **Settings → Pages → Source: Deploy from branch → main / root**
-3. Acesse: `https://<seu-usuario>.github.io/<nome-do-repo>/writeup-the-server-from-hell.html`
-
-## Estrutura
-
-```
-/
-├── writeup-the-server-from-hell.html   ← write-up principal
-├── 1776480*.png                        ← imagens do write-up
-└── README.md                           ← este arquivo
-```
 
 ## Flags
 
